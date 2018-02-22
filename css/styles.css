@@ -1,0 +1,161 @@
+body{
+	background-image: url(https://i.imgur.com/rwnorzW.jpg);
+	background-repeat: no-repeat;
+	color: tomato;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	text-align: center;
+	font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+#special{
+	font-size: 30px;
+	color: red;
+}
+
+#visit{
+	text-align: left;
+	font-size: 13px;
+}
+
+footer{
+	font-size: 8px;
+}
+
+#topMenu{
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+	font-size: 10px;
+}
+
+#name{
+	font-family: 'Pacifico', cursive;
+	color: crimson;
+}
+
+#tagLine{
+	color: crimson;
+	font-family: 'Pacifico', cursive;
+}
+
+//Dropdown images
+.dropdownObject {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-contentObject {
+    display: none;
+    position: absolute;
+    background-image: url(https://i.imgur.com/ZNK74OM.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    min-width: 160px
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    width: 20em;
+    border: 2px solid #000000;
+    word-wrap: break-word;
+}
+
+.dropdownObject:hover .dropdown-contentObject {
+    display: block;
+}
+
+.dropdownFour {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-contentFour {
+    display: none;
+    position: absolute;
+    background-image: url(http://essexsnypizza.com/communities/7/000/002/010/687//images/11981317.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    min-width: 160px
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    width: 25em; 
+    border: 2px solid #000000;
+    word-wrap: break-word;
+}
+
+.dropdownFour:hover .dropdown-contentFour {
+    display: block;
+}
+
+.dropdownLove {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-contentLove {
+    display: none;
+    position: absolute;
+    background-image: url(http://essexsnypizza.com/communities/7/000/002/010/687//images/11981317.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    min-width: 160px
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    width: 25em; 
+    border: 2px solid #000000;
+    word-wrap: break-word;
+}
+
+.dropdownLove:hover .dropdown-contentLove {
+    display: block;
+}
+
+.dropdownDom {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-contentDom {
+    display: none;
+    position: absolute;
+    background-image: url(http://essexsnypizza.com/communities/7/000/002/010/687//images/11981317.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    min-width: 160px
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    width: 25em; 
+    border: 2px solid #000000;
+    word-wrap: break-word;
+}
+
+.dropdownDom:hover .dropdown-contentDom {
+    display: block;
+}
+
+.dropdownCon {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-contentCon {
+    display: none;
+    position: absolute;
+    background-image: url(http://essexsnypizza.com/communities/7/000/002/010/687//images/11981317.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    min-width: 160px
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    width: 25em; 
+    border: 2px solid #000000;
+    word-wrap: break-word;
+}
+
+.dropdownCon:hover .dropdown-contentCon {
+    display: block;
+}
+.desc{
+    padding: 55px;
+    text-align: center;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black
+}
+
